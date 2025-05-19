@@ -56,7 +56,7 @@ The chat assistant was created using IBM Watson and responds in Arabic.
 
 ---
 
-### 2️⃣ التصدير الى as JSON  
+### 2️⃣ التصدير الى JSON  
 تم تصدير المهارة كملف JSON (`skill-تحدث.json`) لإعادة الاستخدام في مشاريع أخرى.  
 The skill was exported as a JSON file for easy reuse.
 
