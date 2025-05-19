@@ -5,7 +5,7 @@ This is a simple reception robot control and chat system built using HTML/CSS fo
 ---
 
 ## 🔗 Live Demo  
-[Open the Web Interface](https://wael-a-alghamdi.github.io/Reception-robot-assistant/index.html)
+[Demo of website Interface](https://wael-a-alghamdi.github.io/Reception-robot-assistant/index.html)
 
 ---
 
