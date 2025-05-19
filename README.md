@@ -4,12 +4,12 @@ This is a simple reception robot control and chat system built using HTML/CSS fo
 
 ---
 
-## 🔗 Live Demo  
+##  Live Demo  
 [Demo of website Interface](https://wael-a-alghamdi.github.io/Reception-robot-assistant/index.html)
 
 ---
 
-## 🔧 Tech Used  
+##  Tech Used  
 - HTML & CSS  
 - PHP  
 - IBM Watson Assistant  
@@ -17,7 +17,7 @@ This is a simple reception robot control and chat system built using HTML/CSS fo
 
 ---
 
-## ⚙️ Features  
+##  Features  
 - Five control buttons: Forward, Left, Right, Stop, Backward  
 - PHP backend for sending robot movement to database  
 - Integrated chatbot in Arabic via Watson Assistant  
@@ -26,7 +26,7 @@ This is a simple reception robot control and chat system built using HTML/CSS fo
 
 ---
 
-## 📝 Notes  
+##  Notes  
 - Requires server environment (e.g. XAMPP) for PHP pages  
 - Background image is `html_background_image.jpg`  
 - Watson Assistant chat loaded using public script from IBM  
@@ -34,9 +34,9 @@ This is a simple reception robot control and chat system built using HTML/CSS fo
 
 ---
 
-## 🧾 Project Overview (Arabic + English)
+##  Project Overview (Arabic + English)
 
-### 📌 المقدمة – Introduction  
+###  المقدمة – Introduction  
 في هذا المشروع، تم إنشاء واجهة روبوت استقبال تحتوي على:
 
 - صفحة تحكم (HTML & CSS) لحركات الروبوت  
