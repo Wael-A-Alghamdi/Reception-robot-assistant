@@ -50,18 +50,18 @@ In this project I created:
 
 ---
 
-### 1️⃣ إنشاء Chat Assistant  
+### 1. إنشاء Chat Assistant  
 تم بناء مساعد محادثة باللغة العربية باستخدام IBM Watson Assistant.  
 The chat assistant was created using IBM Watson and responds in Arabic.
 
 ---
 
-### 2️⃣ التصدير الى JSON  
+### 2. التصدير الى JSON  
 تم تصدير المهارة كملف JSON (`skill-تحدث.json`) لإعادة الاستخدام في مشاريع أخرى.  
 The skill was exported as a JSON file for easy reuse.
 
 ---
 
-### 3️⃣ ربط الشات مع صفحة HTML  
+### 3. ربط الشات مع صفحة HTML  
 تم تضمين المساعد في صفحة التحكم الرئيسية مع أزرار الحركة.  
 Chatbot was embedded directly in the HTML interface for real-time interaction.
